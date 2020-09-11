@@ -1,9 +1,9 @@
 
 <p align = "center"> 
- height="100" >
+ 
 </p>
 <div align="center">
- <h2> ADT NEWS </h2>
+ <h2> Employee Directory App </h2>
 </div>
 <p align = "center"> 
 <a href="https://github.com/amitbiswas1992/EmployeeDirectoryApp"><img src="https://travis-ci.com/slatedocs/slate.svg?branch=master" alt="Build Status"></a>
