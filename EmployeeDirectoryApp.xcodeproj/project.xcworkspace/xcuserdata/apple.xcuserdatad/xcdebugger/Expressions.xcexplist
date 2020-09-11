@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "EmployeeDirectoryAppTest.testTableViewCellHasReuseIdentifier():EmployeeDirectoryAppTest.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewControllerUnderTest?.tableView.cellForRow(at: IndexPath(row: 0, section: 0)) as? EmployeeListingCell">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "EmployeeListingCell.setData(employee:):EmployeeListingCell.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Employee.init(from:):Employee.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "map.allKeys">
+            </PersistentString>
+            <PersistentString
+               value = "try container.decode(URL.self, forKey: .smallPhoto)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in NetworkManager.getEmployeesList(completed:):NetworkManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "array[0] as? Employee">
+            </PersistentString>
+            <PersistentString
+               value = "value[&quot;photo_url_large&quot;] as? URL">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
